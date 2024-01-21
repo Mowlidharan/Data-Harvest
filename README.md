@@ -11,7 +11,7 @@ How to install and set up for this project.
 
 ```bash
 # Clone this repository
-git clone https://github.com/mowlidharan/myntra-tshirt-image-extraction.git
+git clone https://github.com/Mowlidharan/Data-Harvest.git
 cd myntra-tshirt-image-extraction 
 ```
 ## **Usage**
